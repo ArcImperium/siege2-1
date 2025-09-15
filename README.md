@@ -1,3 +1,6 @@
+Go to the website, once there, you can generate a new color that will go in the box by clicking the button. 
+More functions coming soon.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
